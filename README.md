@@ -2,7 +2,7 @@
 
 ## **Sahaba Explorer Project**
 
-*Sahaba Explorer* is a Java-based project that harmonizes Islamic knowledge with technology, meticulously organizing Sahaba data. Developed in collaboration with Hamza Ahmed and Adnan Sajid, this project represents a significant stride in merging Islamic records with advanced technology.
+*Sahaba Explorer* is a Java-based project that harmonizes Islamic knowledge with technology, meticulously organizing Sahaba data. This project represents a significant stride in merging Islamic records with advanced technology.
 
 ### **Project Highlights:**
 - **Focus:** The project centers on the detailed organization of Sahaba data, highlighting critical details such as names, ages, conversion to Islam, familial ties, and more.
